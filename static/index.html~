@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="uk">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>Сервіс Обліку Студентів </title>
+    <meta name="description"
+	  value="Система Обліку Студентів Навчального Закладу" />
+
+	<!-- Include Styles -->
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/bootstrap/3.3.0/css/bootstrap.min.css">
+	
+	<style type="text/css">.col-xs-12, .col-xs-4, .col-xs-8 {border: 1px solid red;} </style>
+
+  </head>
+
+  <body>
+    <h1>Усім привіт! Мене звати <mark>Денис</mark> і я неодмінно вивчу Python та Django!!!</h1>
+    <p>Тут покищо порожньо, але незабаром ми матимемо список студентів.</p>
+
+
+
+
+
+
+
+<!-- Javascripts Section -->
+<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.js"></script>
+<script src="https://cdn.jsdelivr.net/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+  </body>
+
+</html>
